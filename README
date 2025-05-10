@@ -25,7 +25,7 @@ pip install -r requirements.txt
 streamlit run web_calculator.py
 
 ## 🖥 Пример интерфейса
-Screenshot.png
+![Пример скриншота](Screenshot.png)
 
 ## 🌐 Онлайн-версия
 https://web-calculator-mjdv77jwcys3wkwcc368rw.streamlit.app/
